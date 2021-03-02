@@ -1,0 +1,23 @@
+[
+  {
+    "type": "video",
+    "title": "SAY EM | QNT ft. REFUND BAND | Official Music Video",
+    "sources": [
+      {
+        "src": "live/section.m3u8",
+        "type": "M3U8",
+        "size": 1080
+      }
+    ],
+    "tracks": [
+      {
+        "kind": "subtitles",
+        "label": "English",
+        "srclang": "EN",
+        "src": "english.vtt"
+      }
+    ]
+  },
+  "poster.jpg",
+  "mainvideo"
+]
